@@ -15,3 +15,9 @@
     color: black;
     cursor: pointer;
 }
+.spResultado {
+    background: purple;
+    color: white;
+    padding: 4px;
+    margin: 2px;
+}
